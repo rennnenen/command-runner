@@ -39,7 +39,7 @@ A Windows utility to repeatedly execute a specified command-line command at a se
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-Specify your license here (e.g., MIT, Apache 2.0, etc.)
+![License](LICENSE)
 
 ## Author
 
